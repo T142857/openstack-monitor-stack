@@ -1,3 +1,7 @@
+"""
+JokerBui @2017
+Contact: bui.songtoan
+"""
 #!/usr/bin/python
 
 from libs.utils import *
