@@ -27,7 +27,7 @@ Tested on:
 	systemctl restart zabbix-agent.service
 	```
 ### import template (xml file)
-### Monitored items
+### monitored items
   - virt-cpu-total - on all libvirt guests
   - disk operations READ - on all libvirt guests
   - disk operations WRITE - on all libvirt guests
