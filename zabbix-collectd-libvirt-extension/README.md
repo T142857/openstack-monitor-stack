@@ -1,4 +1,4 @@
-## force from: https://github.com/tcpcloud/Zabbix-Template-Linux-Collectd_libvirt
+force from: https://github.com/tcpcloud/Zabbix-Template-Linux-Collectd_libvirt
 
 ## Zabbix Template Linux Collectd_libvirt
 
@@ -9,6 +9,7 @@ Tested on:
  
 ### installation - Manual
   - install collectd package(s) and perl modules
-    ```yum install epel-release
-    yum install collectd collectd-virt perl-Collectd
-    ```
+	```sh
+	yum install epel-release
+	yum install collectd collectd-virt perl-Collectd
+	```
